@@ -1,5 +1,10 @@
-Hello! my name is Sharif Saeed welcome to my page! Here i'll be posting content on my old notes to projects that I am currently working on.
+**Hello! my name is Sharif Saeed welcome to my page! Here i'll be posting content on my old notes to projects that I am currently working on.**
 
+**Heres some facts about me:**
+- 📚 School: George Mason University 
+- ⚡ Major: Computer Engineering
+- 📫 How to reach me: Sharifsaeedwork@gmail.com or contact me on [linkedIn](https://www.linkedin.com/in/sharif-saeed-795675347/)
+- 🤺 Fun fact: I do kendo and compete nationally! (japanese fencing)
 <!--
 **SSharifSaeed/SSharifSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
