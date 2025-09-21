@@ -4,7 +4,7 @@
 - 📚 School: George Mason University 
 - ⚡ Major: Computer Engineering
 - 📫 How to reach me: Sharifsaeedwork@gmail.com or contact me on [linkedIn](https://www.linkedin.com/in/sharif-saeed-795675347/)
-- 🤺 Fun fact: I do kendo and compete nationally! (japanese fencing)
+- 🤺 Fun fact: I do kendo (japanese fencing) and compete nationally!
 <!--
 **SSharifSaeed/SSharifSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
