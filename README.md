@@ -1,4 +1,4 @@
-## Hello! my name is Sharif Saeed welcome to my page! Here i'll be posting content on my old notes to projects that I am currently working on.
+Hello! my name is Sharif Saeed welcome to my page! Here i'll be posting content on my old notes to projects that I am currently working on.
 
 <!--
 **SSharifSaeed/SSharifSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
